@@ -18,6 +18,11 @@ ou
 * Élément 2
 * Élément 3
 
+ou
++ Élément 1
++ Élément 2
++ Élément 3
+  
 et pour les listes numérotées : 
 
 1. Premier
