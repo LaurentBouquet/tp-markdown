@@ -8,6 +8,8 @@ texte en **gras**
 __gras__
 
 ***gras italique***
+**_gras italique_**
+__*gras italique*__
 
 - Élément 1
 - Élément 2
